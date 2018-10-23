@@ -9,8 +9,8 @@
 [20yy/mm/dd | 冬季限定！　エポルエくんとお揃いのコートを手に入れよう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
 [20yy/mm/dd | 休業のお知らせ。](https://takajo-soft03.github.io/europe/info)<br>
 [20yy/mm/dd | エポルエくんファン感謝イベント開催。](https://takajo-soft03.github.io/europe/event/eporue)<br>
-[20yy/mm/dd | 第３1回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
-[20yy/mm/dd | 第３0回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
+[20yy/mm/dd | 第31回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
+[20yy/mm/dd | 第30回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
 [20yy/mm/dd | 第29回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
 [20yy/mm/dd | 第28回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
 [20yy/mm/dd | 第27回エポルエくんパレード開催！ 夢の時間を過ごしましょう。](https://takajo-soft03.github.io/europe/event/eporue)<br>
